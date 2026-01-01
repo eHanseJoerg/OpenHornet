@@ -93,7 +93,7 @@ To integrate the Winwing MIP into OpenHornet, several design choices had to be m
 2. The upper outward corner of the DU will intersect with the ABS glareshield. You will need to either perform some cutouts into your existing ABS glareshields, or you can FDM-print the glareshields provided in this mod, which feature a blister:
 FDM_.125_OH1A1-10_UIP_MOD_A LEFT GLARESHIELD v0.step
 FDM_.125_OH1A1-29_MOD_A UIP RIGHT GLARESHIELD v0.step
-<img src="glareshield-with-blisters.png" alt="Image of Glareshield with blister" width="50%"/>
+<img src="images/glareshield-with-blisters.png" alt="Image of Glareshield with blister" width="50%"/>
 
 
 ## How to assemble
